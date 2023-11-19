@@ -1,0 +1,17 @@
+{
+  "name": "App Grosir Sembako",
+  "short_name": "grosir sembako",
+  "description": "Membuat Aplikasi grosir sembako",
+  "icons": [
+    {
+      "src": "assets/images/grosir.png",
+      "sizes": "500x500",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#1F3641",
+  "background_color": "#ffffff",
+  "prefer_related_applications": false
+}
